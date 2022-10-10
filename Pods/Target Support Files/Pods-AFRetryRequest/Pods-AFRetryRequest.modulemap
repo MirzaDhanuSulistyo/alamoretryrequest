@@ -1,0 +1,6 @@
+framework module Pods_AFRetryRequest {
+  umbrella header "Pods-AFRetryRequest-umbrella.h"
+
+  export *
+  module * { export * }
+}
